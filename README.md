@@ -1,0 +1,1 @@
+# mobile_app_appium-_pytest_POM_allurereport
